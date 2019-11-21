@@ -1,0 +1,10 @@
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\Drive\Portfolio\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
